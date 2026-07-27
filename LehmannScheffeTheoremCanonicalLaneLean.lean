@@ -1,0 +1,3 @@
+import LehmannScheffeTheoremCanonicalLaneLean.Basic
+import LehmannScheffeTheoremCanonicalLaneLean.GateLemmas
+import LehmannScheffeTheoremCanonicalLaneLean.FinalTheorem
